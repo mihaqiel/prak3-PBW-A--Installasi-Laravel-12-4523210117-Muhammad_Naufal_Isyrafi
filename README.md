@@ -35,7 +35,7 @@ php artisan serve
 
 Halaman default Laravel di `http://127.0.0.1:8000`:
 
-![Halaman default Laravel](https://github.com/user-attachments/assets/7abf9105-6ea7-4add-b5ba-987e14714c64")
+![Halaman default Laravel](https://github.com/user-attachments/assets/7abf9105-6ea7-4add-b5ba-987e14714c64)
 
 ### 2.3 Halaman Utama (Home)
 
