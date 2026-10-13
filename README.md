@@ -49,7 +49,7 @@ Route::get('/', function () {
 
 View: `resources/views/welcome.blade.php`
 
-![Halaman Home](https://github.com/user-attachments/assets/7abf9105-6ea7-4add-b5ba-987e14714c64")
+![Halaman default Laravel](https://github.com/user-attachments/assets/7abf9105-6ea7-4add-b5ba-987e14714c64)
 
 ### 2.4 Halaman Tentang Kami
 
